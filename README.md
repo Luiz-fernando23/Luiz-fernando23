@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Luiz Fernando
 
-Sou um desenvolvedor especializado em **Oracle APEX**, com sólida experiência em **PL/SQL**, **SQL**, **Python** e **JavaScript**. Tenho paixão por criar soluções eficientes e intuitivas que agregam valor real aos usuários.
+Sou um desenvolvedor especializado em **Oracle APEX**, com sólida experiência em **PL/SQL**, **SQL** e **Python**. Tenho paixão por criar soluções eficientes e intuitivas que agregam valor real aos usuários.
 
 ---
 
